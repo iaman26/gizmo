@@ -3142,7 +3142,7 @@ figcaption {
 }
 
 .button.is-alternate {
-    border-color: var(--brand--blue);
+    border-color: var(--background--amber);
     background-color: var(--neutral--white);
     color: var(--text-color--text-primary)
 }
@@ -3714,7 +3714,7 @@ figcaption {
 }
 
 .button_fill.is-alternate {
-    background-color: var(--brand--blue)
+    background-color: var(--background--amber)
 }
 
 .button_fill.is-alternate.is-orange {
@@ -3786,7 +3786,7 @@ figcaption {
 
 .btn {
     background-color: var(--background-color--background-primary);
-    background-image: linear-gradient(164deg,var(--brand--blue-medium),var(--brand--blue)60%);
+    background-image: linear-gradient(164deg,var(--brand--blue-medium),var(--background--amber)60%);
     color: var(--neutral--white);
     border-radius: 100vw;
     padding: .875rem 1.5rem;
@@ -5009,7 +5009,7 @@ figcaption {
     .navbar_menu.is-page-height-tablet {
         grid-column-gap: 2rem;
         grid-row-gap: 2rem;
-        background-color: var(--brand--blue);
+        background-color: var(--background--amber);
         justify-content: center;
         height: 100dvh;
         padding-top: 2.5rem;
